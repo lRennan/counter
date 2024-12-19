@@ -22,9 +22,11 @@ To run this project locally:
 
 1. Clone the repository:
 
-   ```bash
+   ```
+   bash
    git clone https://github.com/your-username/react-counter-app.git
-   cd react-counter-app ```
+   cd react-counter-app 
+   ```
 
 2. Install the necessary dependencies:
 
