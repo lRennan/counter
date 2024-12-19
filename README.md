@@ -62,21 +62,4 @@ To run this project locally:
   |-- Index.css
 ```
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Thanks to the React community for inspiration and tutorials that helped build this app.
-
----
-
-Feel free to open an issue or submit a pull request if you have suggestions or improvements!
-```
-
-### Additional Notes for GitHub:
-1. **Preview Image**: Replace the `https://github.com/your-username/react-counter-app/blob/main/screenshots/preview.png` link with an actual screenshot from your project.
-2. **GitHub Repo URL**: Be sure to replace `your-username` with your actual GitHub username and repository name.
-3. **License**: If you're using a specific license like MIT, be sure you have the `LICENSE` file in your repository or adjust accordingly.
-4. **Issues/PRs**: GitHub allows users to submit issues or pull requests. Feel free to invite contributions by adding a section to your README about how others can contribute to the project.
