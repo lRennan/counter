@@ -13,13 +13,6 @@ A simple React-based counter application that allows users to increment, decreme
 
 ![Counter](https://github.com/user-attachments/assets/9340d6c6-aa12-44b1-a130-49bb0d6b02e4)
 
-## Prerequisites
-
-Before running this app, ensure you have the following installed:
-
-- [Node.js](https://nodejs.org/) (which includes npm)
-- [React](https://reactjs.org/)
-
 ## Installation
 
 To run this project locally:
