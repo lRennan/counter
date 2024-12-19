@@ -1,4 +1,4 @@
-Here’s a `README.md` tailored specifically for a GitHub repository:
+Here’s the updated `README.md` with the image link you provided:
 
 ```markdown
 # React Counter App
@@ -13,9 +13,15 @@ A simple React-based counter application that allows users to increment, decreme
 - **Responsive UI**: Clean and simple layout using CSS for styling.
 
 ## Preview
-![counter](https://github.com/user-attachments/assets/63277f63-f647-4add-a643-2e77a9c6a337)
 
+![Counter](https://github.com/user-attachments/assets/9340d6c6-aa12-44b1-a130-49bb0d6b02e4)
 
+## Prerequisites
+
+Before running this app, ensure you have the following installed:
+
+- [Node.js](https://nodejs.org/) (which includes npm)
+- [React](https://reactjs.org/)
 
 ## Installation
 
@@ -24,7 +30,7 @@ To run this project locally:
 1. Clone the repository:
 
    ```bash
-   git clone 
+   git clone https://github.com/your-username/react-counter-app.git
    cd react-counter-app
    ```
 
@@ -37,7 +43,7 @@ To run this project locally:
 3. Start the development server:
 
    ```bash
-   npm start https://github.com/lRennan/counter.git
+   npm start
    ```
 
 4. Open your browser and visit `http://localhost:3000/` to see the app in action.
@@ -57,6 +63,9 @@ To run this project locally:
 
 ```
 /src
-  |-- App.js        # Main React component containing the logic
-  |-- App.css       # Styling for the application
+  |-- App.js        
+  |-- App.css
+  |-- index.js
+  |--index.css
 ```
+
