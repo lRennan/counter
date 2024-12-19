@@ -1,5 +1,3 @@
-Here’s a `README.md` tailored specifically for a GitHub repository:
-
 ```markdown
 # React Counter App
 
