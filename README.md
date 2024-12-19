@@ -1,6 +1,3 @@
-Here’s the updated `README.md` with the image link you provided:
-
-```markdown
 # React Counter App
 
 A simple React-based counter application that allows users to increment, decrement, and reset a counter value. This project demonstrates basic React concepts such as state management with the `useState` hook and handling user interactions with buttons.
