@@ -13,8 +13,8 @@ A simple React-based counter application that allows users to increment, decreme
 - **Responsive UI**: Clean and simple layout using CSS for styling.
 
 ## Preview
+![counter](https://github.com/user-attachments/assets/63277f63-f647-4add-a643-2e77a9c6a337)
 
-![Counter App Preview]                                                                                                                        (https://github.com/user-attachments/assets/73657298-6758-4288-a4c1-b27a2a76a88d )
 
 
 ## Installation
