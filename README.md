@@ -24,7 +24,7 @@ To run this project locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/react-counter-app.git
+   git clone 
    cd react-counter-app
    ```
 
@@ -37,7 +37,7 @@ To run this project locally:
 3. Start the development server:
 
    ```bash
-   npm start
+   npm start https://github.com/lRennan/counter.git
    ```
 
 4. Open your browser and visit `http://localhost:3000/` to see the app in action.
