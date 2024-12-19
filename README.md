@@ -27,6 +27,8 @@ To run this project locally:
    cd react-counter-app
    ```
 
+```
+
 2. Install the necessary dependencies:
 
    ```bash
