@@ -56,8 +56,10 @@ To run this project locally:
 
 ```
 /src
-  |-- App.js        # Main React component containing the logic
-  |-- App.css       # Styling for the application
+  |-- App.js        
+  |-- App.css       
+  |-- index.js 
+  |-- Index.css
 ```
 
 ## License
