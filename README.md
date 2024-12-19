@@ -28,12 +28,15 @@ To run this project locally:
 
 2. Install the necessary dependencies:
 
-   ```bash
-   npm install```
+   ```
+   bash
+   npm install
+   ```
 
 3. Start the development server:
 
-   ```bash
+   ```
+   bash
    npm start
    ```
 
