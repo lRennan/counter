@@ -14,7 +14,7 @@ A simple React-based counter application that allows users to increment, decreme
 
 ## Preview
 
-![Counter App Preview](![counter](https://github.com/user-attachments/assets/73657298-6758-4288-a4c1-b27a2a76a88d))
+![Counter App Preview]( ![counter](https://github.com/user-attachments/assets/73657298-6758-4288-a4c1-b27a2a76a88d ))
 
 
 ## Installation
